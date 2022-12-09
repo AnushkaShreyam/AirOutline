@@ -5,7 +5,6 @@ from collections import deque
 def setValues(x):
    print("")
 
-
 cv2.namedWindow("Color detectors")
 cv2.createTrackbar("Lower Hue", "Color detectors", 64, 180, setValues)
 cv2.createTrackbar("Lower Saturation", "Color detectors", 72, 255, setValues)
