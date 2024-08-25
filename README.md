@@ -1,5 +1,6 @@
 # AirOutline
-We will be using the computer vision techniques of OpenCV to build this project.
+
+We will be using the computer vision (CV) techniques of OpenCV to build this project.
 
 The preffered language is python due to its exhaustive libraries and easy to use syntax but understanding the basics it can be implemented in any OpenCV supported language.
 
